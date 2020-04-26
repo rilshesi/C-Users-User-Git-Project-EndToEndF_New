@@ -1,0 +1,6 @@
+17:32:15.413 [main] INFO  frameWork_8.EndToEndF_New.TestHomeWithLog4j - popup is clicked
+17:32:22.853 [main] DEBUG frameWork_8.EndToEndF_New.TestHomeWithLog4j - login clicked
+17:32:51.242 [main] DEBUG frameWork_8.EndToEndF_New.TestHomeWithLog4j - Portal Homepage is Displayed
+17:32:51.319 [main] INFO  frameWork_8.EndToEndF_New.TestHomeWithLog4j - search box is present
+17:40:22.250 [main] INFO  frameWork_8.EndToEndF_New.TestHomeWithLog4j - Driver is initialized
+17:40:29.924 [main] INFO  frameWork_8.EndToEndF_New.TestHomeWithLog4j - popup is clicked
